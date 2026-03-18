@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "github-mcp": {
+      "command": "/home/ubuntu/Desktop/MCP/venv/bin/python3",
+      "args": ["server.py"]
+    }
+  }
+}
